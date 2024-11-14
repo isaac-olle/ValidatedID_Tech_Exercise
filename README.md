@@ -12,4 +12,4 @@ The **Terminal** interface is particularly useful for testing, as it automatical
 
 The **HTTP** interface allows interaction with the game through POST requests, and it can be tested with Postman. The Postman collection is available in the repository. The `GameId` is automatically set for subsequent requests, making it easier to create games and move players.
 
-Although the basic functionality is implemented, edge cases have not been thoroughly tested, and error handling is limited. In future versions, the robustness and error responses could be improved to handle a broader range of scenarios.
+Although the basic functionality is implemented, edge cases have not been thoroughly tested, and error handling is limited.
