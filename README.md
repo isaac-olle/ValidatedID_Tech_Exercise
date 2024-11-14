@@ -4,6 +4,8 @@
 
 There are two interfaces to interact with the program. They are defined in `index.js`, and you can comment them out if you find it necessary.
 
+The logic of the ladders and snakes is "made" but the inicialitzation was tough and finally is a pending task.
+
 ### 1. Terminal Interface
 
 The **Terminal** interface is particularly useful for testing, as it automatically runs the entire game until one player wins. While the interface currently has more logic than needed, it could be simplified to just run the game using the existing game logic. This interface has been adapted to work with an HTTP API to demonstrate the scalability of the system, and it also simulates a frontend interacting with the game.
