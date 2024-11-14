@@ -31,7 +31,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"numPlayers\": 5,\r\n    \"numSquares\": 120\r\n}",
+					"raw": "{\r\n    \"numPlayers\": \"asdf\",\r\n    \"numSquares\": 120\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
